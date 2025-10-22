@@ -1,4 +1,5 @@
 Phân tích hành vi người dùng smartphone
+
 1. SQL
 Project này sử dụng SQL để phân tích bộ dữ liệu về hành vi người dùng điện thoại di động. Mục tiêu là khám phá các xu hướng sử dụng thiết bị, ứng dụng, pin và dữ liệu, cũng như phân khúc người dùng dựa trên các yếu tố nhân khẩu học (tuổi, giới tính) và hành vi sử dụng.
 
