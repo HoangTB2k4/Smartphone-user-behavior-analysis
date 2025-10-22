@@ -38,6 +38,7 @@ Project tập trung vào các khía cạnh sau:
 SQL 
 
 1.5 Cách sử dụng
+
 Để chạy lại phân tích này, bạn cần:
 - Tải bộ dữ liệu user_behavior_dataset.
 - Mở notebook trong Azure data studio hoặc tải file .sql về.
