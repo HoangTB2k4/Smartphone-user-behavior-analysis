@@ -5,6 +5,7 @@ Phân tích hành vi người dùng smartphone
 Project này sử dụng SQL để phân tích bộ dữ liệu về hành vi người dùng điện thoại di động. Mục tiêu là khám phá các xu hướng sử dụng thiết bị, ứng dụng, pin và dữ liệu, cũng như phân khúc người dùng dựa trên các yếu tố nhân khẩu học (tuổi, giới tính) và hành vi sử dụng.
 
 1.1 Bộ dữ liệu
+
 Bộ dữ liệu user_behavior_dataset chứa thông tin chi tiết về hành vi của 700 người dùng, bao gồm:
 - User_ID: Mã định danh người dùng
 - Device_Model: Tên thiết bị di động
@@ -19,6 +20,7 @@ Bộ dữ liệu user_behavior_dataset chứa thông tin chi tiết về hành v
 - User_Behavior_Class: Phân loại nhóm hành vi người dùng
 
 1.2 Phân tích chính
+
 Project tập trung vào các khía cạnh sau:
 - Tổng quan dữ liệu: Khám phá cấu trúc và nội dung của bộ dữ liệu, bao gồm số lượng người dùng, thiết bị, hệ điều hành và giới tính.
 - Phân tích mức độ sử dụng: Đánh giá mối tương quan giữa thời gian sử dụng ứng dụng, lượng pin tiêu thụ và lượng dữ liệu sử dụng. So sánh các chỉ số này giữa các nhóm hành vi người dùng khác nhau.
